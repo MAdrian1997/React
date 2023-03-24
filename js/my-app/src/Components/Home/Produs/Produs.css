@@ -1,0 +1,24 @@
+.produsearea {
+  margin-top: 25px;
+}
+.produs {
+  margin-top: 10px;
+  text-align: center;
+}
+.produscard {
+  margin-top: 25px;
+  display: flex;
+  justify-content: space-around;
+  margin-right: 25px;
+}
+.card-body {
+  text-align: center;
+}
+.card-title {
+  font-size: 15px;
+}
+@media only screen and (max-width: 680px) {
+  .produsecard {
+    margin-right: 0px;
+  }
+}

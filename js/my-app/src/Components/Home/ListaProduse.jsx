@@ -1,0 +1,88 @@
+const listaDeProduse = [
+  {
+    type: "Laptop",
+    key: "Hp",
+    denumire: "Hp",
+    pret: "2500 lei",
+    img: "https://s13emagst.akamaized.net/products/49560/49559816/images/res_2b0c5942197cfa4a28f53cd5a437c46f.jpg?width=450&height=450&hash=E53A5C01891BCA45B27A84F538A9517B",
+  },
+  {
+    type: "Laptop",
+    key: "Dell",
+    denumire: "Dell",
+    pret: "3000 lei",
+    img: "https://s13emagst.akamaized.net/products/52558/52557562/images/res_0c7902995b285ecd45d6b5f4df1a85bc.jpg?width=450&height=450&hash=D4DD7269202EC3ABAACA36CE386C6A4D",
+  },
+  {
+    type: "Laptop",
+    key: "Apple",
+    denumire: "Apple",
+    pret: "9000 lei",
+    img: "https://s13emagst.akamaized.net/products/33874/33873204/images/res_c022f93ef4f035a06a8c32ecd5dc8385.jpg?width=450&height=450&hash=92096581336A9861A5169DA6511E7658",
+  },
+  {
+    type: "Laptop",
+    key: "Samsung",
+    denumire: "Samsung",
+    pret: "3500 lei",
+    img: "https://s13emagst.akamaized.net/products/48153/48152819/images/res_2916211cdca9a53058bf3ba9f2793489.jpg?width=450&height=450&hash=F58F53ABB12D41A061D5FA820FD64789",
+  },
+  {
+    type: "Phone",
+    key: "Samsung S21",
+    denumire: "Samsung S21",
+    pret: "5000 lei",
+    img: "https://s13emagst.akamaized.net/products/42479/42478619/images/res_4446e661e26945a8154b5d3c853a4784.jpg?width=450&height=450&hash=FABF8A9D5E7CC403E4A18203F21CFCF8",
+  },
+  {
+    type: "Phone",
+    key: "Iphone 14",
+    denumire: "Iphone 14",
+    pret: "6000 lei",
+    img: "https://s13emagst.akamaized.net/products/48592/48591238/images/res_0e2cf7fc7c683b16fea2e86dbe98b8d9.jpg?width=720&height=720&hash=3959288467724EEC3E186C20D832A289",
+  },
+  {
+    type: "Phone",
+    key: "Huawei P30 Pro",
+    denumire: "Huawei P30 Pro",
+    pret: "2000 lei",
+    img: "https://s13emagst.akamaized.net/products/20936/20935295/images/res_04584acfa3f95c46a69f665db4834a21.jpg?width=450&height=450&hash=29C2C69BC6242A5588A28D6B99FE79D1",
+  },
+  {
+    type: "Phone",
+    key: "One Plus 11",
+    denumire: "One Plus 11",
+    pret: "4500 lei",
+    img: "https://s13emagst.akamaized.net/products/52853/52852562/images/res_c6f7055ce40d20b248413f9432d3223a.jpg?width=720&height=720&hash=AF14D828A25D4B426AE27014CF873BEA",
+  },
+  {
+    type: "TV",
+    key: "Samsung 43AU7172",
+    denumire: "Samsung 43AU7172",
+    pret: "1600 lei",
+    img: "https://s13emagst.akamaized.net/products/35828/35827242/images/res_1afbb5074dba25b7e2dfc9ca46ab60c1.jpg?width=720&height=720&hash=8E91609A17A1D5EB87FD7BD5B9271D1E",
+  },
+  {
+    type: "TV",
+    key: "Sony Led 55X89J",
+    denumire: "Sony Led 55X89J",
+    pret: "3300 lei",
+    img: "https://s13emagst.akamaized.net/products/39206/39205285/images/res_52bb7a95ed67928584223f2a8fc8aa29.jpg?width=720&height=720&hash=FB3557D836CE74CFA84DABF06124E82F",
+  },
+  {
+    type: "TV",
+    key: "Philips Ambilight The One Led",
+    denumire: "Philips Ambilight The One Led",
+    pret: "2500 lei",
+    img: "https://s13emagst.akamaized.net/products/46124/46123371/images/res_dc0d8e07123d6fa3712c9c61a67eda0f.jpg?width=720&height=720&hash=A2C85F0FFEF7580A4784338800403AC7",
+  },
+  {
+    type: "TV",
+    key: "LG LED 32LQ63806LC",
+    denumire: "LG LED 32LQ63806LC",
+    pret: "1400 lei",
+    img: "https://s13emagst.akamaized.net/products/43490/43489381/images/res_9860a4a4929e6a15051786583a522fae.jpg?width=720&height=720&hash=4710D359D3B41A9BEE3483F44C3F0C93",
+  },
+];
+
+export default listaDeProduse;

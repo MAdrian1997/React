@@ -1,0 +1,26 @@
+.cart {
+  text-align: center;
+  margin-top: 45px;
+}
+.containercart {
+  background-color: white;
+  border: 1px solid #eeeeee;
+  border-radius: 3px;
+  box-shadow: 1px 1px 3px rgba(0, 0, 0, 0.45);
+  display: block;
+  margin: 100px;
+}
+.btncart {
+  display: block;
+  margin: auto;
+  margin-top: 35px;
+}
+th,
+td {
+  text-align: center;
+}
+@media only screen and (max-width: 680px) {
+  .containercart {
+    margin: 30px;
+  }
+}

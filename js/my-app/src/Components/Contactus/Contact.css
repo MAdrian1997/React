@@ -1,0 +1,31 @@
+.contact {
+  text-align: center;
+  margin-top: 45px;
+  margin-bottom: 45px;
+}
+.infocontact {
+  margin-top: 100px;
+}
+.border {
+  border-radius: none;
+}
+.mapsiframe {
+  border: 2px solid #fff;
+  border-radius: 1%;
+}
+.btnContactUS {
+  margin-bottom: 25px;
+}
+@media only screen and (max-width: 680px) {
+  .sectioncontact {
+    margin-left: 25px;
+    margin-right: 25px;
+  }
+  .border {
+    border: 0;
+  }
+  .mapsiframe {
+    width: 110%;
+    height: 250%;
+  }
+}

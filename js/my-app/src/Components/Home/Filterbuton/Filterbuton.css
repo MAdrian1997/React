@@ -1,0 +1,14 @@
+.formselect {
+  width: 12%;
+  display: block;
+  margin: auto;
+  margin-top: 25px;
+}
+.allproduct {
+  text-align: center;
+}
+@media only screen and (max-width: 680px) {
+  .formselect {
+    width: 45%;
+  }
+}
