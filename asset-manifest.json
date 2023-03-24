@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/MAdrian1997/React-JS.git/static/css/main.8fd2ca8f.css",
+    "main.js": "/MAdrian1997/React-JS.git/static/js/main.7c0dcad6.js",
+    "static/js/787.28cb0dcd.chunk.js": "/MAdrian1997/React-JS.git/static/js/787.28cb0dcd.chunk.js",
+    "index.html": "/MAdrian1997/React-JS.git/index.html",
+    "main.8fd2ca8f.css.map": "/MAdrian1997/React-JS.git/static/css/main.8fd2ca8f.css.map",
+    "main.7c0dcad6.js.map": "/MAdrian1997/React-JS.git/static/js/main.7c0dcad6.js.map",
+    "787.28cb0dcd.chunk.js.map": "/MAdrian1997/React-JS.git/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8fd2ca8f.css",
+    "static/js/main.7c0dcad6.js"
+  ]
+}
